@@ -6,6 +6,12 @@
 
 <h3 align="center">I'm Junior Front-End Developer</h3>
 
+<div align="center">
+ 
+I am a career-focused and highly motivated individual. As a Computer Programming student, I am passionate about technological innovations and continuously develop myself in coding with my analytical thinking skills. I constantly build upon the knowledge I have acquired throughout my university life. I am determined to understand the industry standards and best practices in software development processes. I am advancing on my path to acquiring knowledge in a wide range of programming from low-level to high-level. With a problem-solving and open-to-learning approach, I focus on adapting to the rapidly changing demands of the software world. I aim to continuously develop my skills and education and have a successful career by learning from my mistakes without fearing them.
+
+ </div>
+
 <br/>
  
 <div align="center"> 
@@ -14,9 +20,6 @@
   </a>
   <a href="https://www.linkedin.com/in/yusuf-efe-civlez-8a106229a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://YusufEfe058.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
